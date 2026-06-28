@@ -20,3 +20,5 @@ function fibsRec(num) {
 
   return sequence;
 }
+
+export { fibs, fibsRec };
