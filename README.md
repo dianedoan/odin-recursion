@@ -4,8 +4,6 @@ This project contains two files that tackle the Fibonacci Sequence and Merge Sor
 ### Fibonacci Sequence
 - `fibs` takes a number and returns an array containing that many numbers from the Fibonacci sequence in an iterative way
 - `fibsRec` takes a number and returns an array containing that many numbers from the Fibonacci sequence in an recursive way
-  - `console.log("This was printed recursively");` is added to the start of the function to showcase the implemented recursive effect
-  - The function is then called with `8` as the argument and if implemented properly, the sentence should be printed around 8 times
 - Both versions of the functions are tested by passing in various lengths of arguments
 
 ### Merge Sort
