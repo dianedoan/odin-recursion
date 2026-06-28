@@ -37,3 +37,5 @@ function merge(left, right) {
   // merge any leftover values to the sorted array
   return sortedArray.concat(left.slice(leftIndex)).concat(right.slice(rightIndex));
 }
+
+export { mergeSort };
